@@ -1,0 +1,31 @@
+#ignore all files.
+/*
+!User/
+User/*
+
+#except ignore
+!.gitignore
+
+#except submodule
+!.gitmodules
+
+#except keymap
+!User/Default (OSX).sublime-keymap
+
+#except mousemap
+!User/Default (OSX).sublime-mousemap
+
+#except settings
+!User/Preferences.sublime-settings
+
+#except all plugin's settings
+!User/*.sublime-settings
+
+#except color scheme
+!Color Scheme - Soda/
+
+#except theme
+!Theme - Soda/
+
+#except readme
+!README.md

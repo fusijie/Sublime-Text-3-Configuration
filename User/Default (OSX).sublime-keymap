@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+backquote"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+]
