@@ -1,3 +1,21 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Function Name Display",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Terminal"
+	]
 }

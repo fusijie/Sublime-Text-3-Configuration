@@ -9,4 +9,13 @@
 	* Rename to `packages`.
 
 
+### Install Package Control
 
+* Sublime Text3:
+	
+	* [INSTALLATION](https://packagecontrol.io/installation)
+
+	
+### Install Plugins
+
+* [My Plugins](./User/Package Control.sublime-settings)

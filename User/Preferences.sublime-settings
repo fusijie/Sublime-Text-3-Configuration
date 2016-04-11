@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Soda/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
 	"create_window_at_startup": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
