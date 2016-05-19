@@ -29,6 +29,3 @@ User/*
 
 #except readme
 !README.md
-
-#except script
-!update.sh
